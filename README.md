@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hey, I'm Dhyey! 👋
 
-<!--
-**dhyeyp1/dhyeyp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a student at the University of Waterloo and Wilfrid Laurier University.
+- 💻 I'm currently a Software Engineer at BDO Canada, previously a Software Engineer at Riipen and Financial Analyst at Bank of Montreal.
+- ⚡ I enjoy building full-stack applications, AI-powered systems, and projects focused on fintech and financial technology.
 
-Here are some ideas to get you started:
+## 🛠 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  
+Python, Java, C/C++, JavaScript, TypeScript, SQL, C#
+
+**Frameworks & Technologies:**  
+React, Next.js, Node.js, Spring Boot, FastAPI, Flask, Express, Tailwind CSS
+
+**Cloud & Databases:**  
+AWS, Azure, GCP, PostgreSQL, MongoDB, MySQL, DynamoDB, Redis
+
+**AI & Tools:**  
+OpenAI, Google Gemini, Claude, Docker, Git, Jenkins, Unix/Linux
+
+## 🚀 Projects
+
+**AI Stock Predictor**  
+Machine-learning powered stock analysis platform built with Python and Streamlit.
+
+🔗 [Live Demo](https://dhyey-stock-dashboard.streamlit.app/)
+
+**WealthWise**  
+AI-powered personal finance platform built with Next.js, TypeScript, Node.js, MongoDB, and Google Gemini.
+
+🔗 [Live Demo](https://wealth-wise-finance-tracker-web-eight.vercel.app/)
+
+## 📫 Reach Me
+
+- **Email:** dhyeypatel0040@gmail.com
+- **GitHub:** [github.com/dhyeyp1](https://github.com/dhyeyp1)
