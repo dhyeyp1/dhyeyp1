@@ -1,7 +1,7 @@
 ## Hey, I'm Dhyey! 👋
 
 - 🔭 I'm a student at the University of Waterloo and Wilfrid Laurier University.
-- 💻 I'm currently a Software Engineer at BDO Canada, previously a Software Engineer at Riipen and Financial Analyst at Bank of Montreal.
+- 💻 I'm currently a Technology Consultant at BDO Canada, previously a Software Engineer at Riipen and Financial Analyst at Bank of Montreal.
 - ⚡ I enjoy building full-stack applications, AI-powered systems, and projects focused on fintech and financial technology.
 
 ## 🛠 Languages and Tools
